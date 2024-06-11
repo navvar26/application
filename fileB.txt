@@ -1,3 +1,2 @@
 This is fileB
 This is new
-changes to fileB squash merge

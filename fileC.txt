@@ -1,3 +1,2 @@
 This is file C
-Test changes in c
-test changes
+CHANGES TO FILE C
